@@ -1,6 +1,7 @@
 # Example applications using Spring boot
 
 Spring boot with mysql and docker: https://g00glen00b.be/docker-spring-boot/
+https://github.com/machzqcq/docker-for-all
 
 This is a collection of small applications demonstrating certain features of Spring boot. Most of these are covered as well in [my blog posts](https://g00glen00b.be/tag/spring-boot/).
 
